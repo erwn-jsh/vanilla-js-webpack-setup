@@ -1,0 +1,1 @@
+Based off https://github.com/bradtraversy/webpack-starter
